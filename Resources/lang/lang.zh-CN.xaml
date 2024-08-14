@@ -451,7 +451,7 @@
     <v:String x:Key="ThemeEntries_Original">原版</v:String>
     <v:String x:Key="ThemeEntries_Custom">自定义</v:String>
 
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">荒野更新</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴与山崖（第一部分）</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞穴与山崖（第二部分）</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">下界更新</v:String>
