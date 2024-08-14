@@ -21,7 +21,7 @@
 
     <v:String x:Key="ToolbarButtons_NewsButton_Text">News</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
-    <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
+    <v:String x:Key="ToolbarButtons_Minecraft_Text">Minecraft：</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profile</v:String>
     <v:String x:Key="ToolbarButtons_SettingsButton_Text">Settings</v:String>
 
