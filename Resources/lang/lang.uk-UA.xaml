@@ -95,10 +95,10 @@
 
     <v:String x:Key="EditInstallationScreen_LatestPreview">Останній Попередній перегляд</v:String>
     <v:String x:Key="EditInstallationScreen_LatestBeta">Остання бета</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestRelease">Останній реліз</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestRelease">Останній випуск</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">НАЗВА</v:String>
-    <v:String x:Key="EditInstallationScreen_VersionSubtitle">Версія</v:String>
+    <v:String x:Key="EditInstallationScreen_VersionSubtitle">ВЕРСІЯ</v:String>
     <v:String x:Key="EditInstallationScreen_DirectorySubtitle">ТЕКА</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameHintText">&lt;безіменна інсталяція&gt;</v:String>
@@ -450,7 +450,7 @@
     <v:String x:Key="ThemeEntries_Original">Ориґінал</v:String>
     <v:String x:Key="ThemeEntries_Custom">Власний</v:String>
 
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">Дике оновлення</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Оновлення &quot;Печери та скелі (частина 1)&quot;</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Печери та скелі (частина 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Оновлення нижнього світу</v:String>
