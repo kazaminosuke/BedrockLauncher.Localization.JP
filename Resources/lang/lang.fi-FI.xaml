@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LAUNCHERIN ASETUKSET</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">PIKANÄPPÄIN-ASETUKSET</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Käytä launcherin beta-versiota</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Pidä launcher avoinna, kun pelit ovat käynnissä</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animoi siirtymät launcherin sivujen välillä</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animoi toistopainike launcherin Play-sivuilla</v:String>
