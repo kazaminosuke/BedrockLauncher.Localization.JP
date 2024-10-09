@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LANSEERDER-INSTELLINGS</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">KORTPADIE INSTELLINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Gebruik beta weergawe van die Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Hou die lanseerder oop terwyl speletjies aan die gang is</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animeer oorgange tussen bladsye in die Launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animeer speel-knoppie op die Speel-bladsye in die Launcher</v:String>
