@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">NASTAVENÍ SPOUŠTĚČE</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">NASTAVENÍ ZKRATEK</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Použít beta verzi Spouštěče</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Ponechat Spouštěč otevřený i během spuštěné hry</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animovat přechody mezi stránkami ve Spouštěči</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animovat tlačítko hrát na stránkách Hrát ve Spouštěči</v:String>
