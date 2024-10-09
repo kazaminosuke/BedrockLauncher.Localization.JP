@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">DEFINIÇÕES DO LAUNCHER</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">Configurações de Atalho</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Usar versão experimental do launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Manter o launcher aberto durante a execução do jogo</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animar transições entre páginas no launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animar o botão Jogar nas páginas de Play no Launcher</v:String>
