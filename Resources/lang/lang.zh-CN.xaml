@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">启动器设置</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">快捷按钮设置</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">使用测试版启动器</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">游戏运行时保持启动器开启</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">启动器的页面切换动画</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">开始游戏标签页的开始游戏按钮动画</v:String>
