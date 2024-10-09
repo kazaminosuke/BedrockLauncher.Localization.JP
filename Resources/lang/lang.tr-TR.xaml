@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">BAŞLATICI AYARLARI</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">KISAYOL AYARLARI</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Başlatıcının beta sürümünü kullan</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Oyun çalışırken başlatıcıyı açık tut</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Başlatıcıdaki sayfa geçişlerinde animasyon göster</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Başlatıcı'daki Oyna sayfasındaki oyna tuşunda animasyon göster</v:String>
