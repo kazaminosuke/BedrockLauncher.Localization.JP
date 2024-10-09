@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">НАЛАШТУВАННЯ ЛАУНЧЕРА</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">НАЛАШТУВАННЯ ЯРЛИКА</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Використовувати бета-версію лаунчеру</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Не закривати лаунчер під час запуску гри</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Анімувати переходи між сторінками в лаунчері</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Анімувати кнопку &quot;Грати&quot; в ігрових розділах лаунчера</v:String>
