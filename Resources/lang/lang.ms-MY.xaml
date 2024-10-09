@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">TETAPAN PELANCAR</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">TETAPAN JALAN PINTAS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Gunakan versi beta Pelancar</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Kekalkan Pelancar terbuka saat permainan dijalankan</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animasikan peralihan diantara halaman di dalam Pelancar</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animasikan butang main di halaman Main di dalam Pelancar</v:String>
