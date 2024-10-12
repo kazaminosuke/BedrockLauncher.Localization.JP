@@ -81,7 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Aucun</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nom de la configuration</v:String>
-    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Texte de la version</v:String>
 
     <!--#endregion-->
 
