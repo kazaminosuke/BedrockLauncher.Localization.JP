@@ -171,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">PARAMÈTRES DU LAUNCHER</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">PARAMÈTRES DES RACCOURCIS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Conserver le package Appx</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Garder le Launcher ouvert pendant le jeu</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animer les transitions entre les pages du Launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animer le bouton &quot;jouer&quot; sur les pages du Launcher</v:String>
@@ -451,7 +451,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
     <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">La mise à jour The Wild</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Cavernes et falaises (partie 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Partie 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Mise à jour du Nether</v:String>
