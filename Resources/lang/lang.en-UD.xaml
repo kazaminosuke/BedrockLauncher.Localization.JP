@@ -70,6 +70,14 @@
     <v:String x:Key="GameTab_PatchNotesButton_Text">sǝʇou ɥɔʇɐԀ</v:String>
 
     <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+
+    <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
@@ -513,7 +521,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">SƎɹ∩┴ƆƎ┴IHƆɹ∀</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ƎSMOᴚᗺ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">⟘ƎSƎᴚ</v:String>

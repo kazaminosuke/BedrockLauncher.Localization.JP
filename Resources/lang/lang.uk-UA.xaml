@@ -70,6 +70,14 @@
     <v:String x:Key="GameTab_PatchNotesButton_Text">Список змін</v:String>
 
     <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+
+    <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
@@ -512,7 +520,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">АРХІТЕКТУРИ</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ОГЛЯД</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СКИНУТИ</v:String>
