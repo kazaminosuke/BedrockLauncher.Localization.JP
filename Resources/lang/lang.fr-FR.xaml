@@ -73,9 +73,9 @@
     
     <!--#region CreatorToolsPage -->
 
-    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
-    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
-    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Editor">Éditeur Bedrock</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Créez des mondes époustouflants à échelle réelle</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Lancer l'Éditeur</v:String>
 
     <!--#endregion-->
 
@@ -348,7 +348,7 @@
     <v:String x:Key="DialogBtn_Yes_Text">Oui</v:String>
     <v:String x:Key="DialogBtn_No_Text">Non</v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Aucun résultat trouv</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Aucun résultat trouvé</v:String>
     <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">Nous n'avons pas pu trouver de nouveaux résultats correspondant à votre recherche. Si vous utilisez des filtres de catégorie 
 désactivés, réactivez les et retentez votre recherche</v:String>
 
@@ -455,7 +455,7 @@ du Minecraft Bedrock Launcher</v:String>
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">Dernière mise à Jour</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate">Dernière mise à jour</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
     <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
