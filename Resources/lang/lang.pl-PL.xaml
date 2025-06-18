@@ -70,6 +70,14 @@
     <v:String x:Key="GameTab_PatchNotesButton_Text">Lista zmian</v:String>
 
     <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+
+    <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
@@ -513,7 +521,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">WERSJE</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">WERSJE</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">ARCHITEKTURY</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PRZEGLĄDAJ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">WYZERUJ</v:String>
