@@ -70,6 +70,14 @@
     <v:String x:Key="GameTab_PatchNotesButton_Text">Korjaustiedot</v:String>
 
     <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+
+    <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
@@ -512,7 +520,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIOT</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSIOT</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">ARKKITEHTUURIT</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
