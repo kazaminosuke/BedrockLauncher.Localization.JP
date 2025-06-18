@@ -70,6 +70,14 @@
     <v:String x:Key="GameTab_PatchNotesButton_Text">更新说明</v:String>
 
     <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+
+    <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
@@ -513,7 +521,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">版本</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">版本</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">架构</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">浏览</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">重置</v:String>
