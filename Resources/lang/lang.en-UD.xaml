@@ -73,9 +73,9 @@
     
     <!--#region CreatorToolsPage -->
 
-    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
-    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
-    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Editor">ɹoʇᴉpƎ ʞɔoɹpǝq</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">ǝlɐɔs ʇɐ splɹoʍ ƃuᴉuunʇs ǝʇɐǝɹƆ</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">ɹoʇᴉpƎ ɥɔunɐ˥</v:String>
 
     <!--#endregion-->
 
@@ -179,7 +179,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">S⅁NI⟘⟘ƎS ᴚƎHƆN∩ⱯꞀ</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">S⅁NI⟘⟘ƎS ⟘∩Ɔ⟘ᴚOHS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">ǝƃɐʞɔɐԀ xdd∀ dǝǝʞ</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ᵷuᴉuunɹ ǝɹɐ sǝɯɐᵷ ǝꞁᴉɥʍ uǝdo ɹǝɥɔunɐꞀ ǝɥʇ dǝǝꞰ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd uǝǝʍʇǝq suoᴉʇᴉsuɐɹʇ ǝʇɐɯᴉuⱯ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd ʎɐꞁԀ ǝɥʇ uo uoʇʇnq ʎɐꞁd ǝʇɐɯᴉuⱯ</v:String>
