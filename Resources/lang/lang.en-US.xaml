@@ -74,7 +74,7 @@
 
     <!--#endregion-->
     
-    <!--#region GameTab -->
+    <!--#region CreatorToolsPage -->
 
     <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
     <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
