@@ -1,4 +1,4 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                     xmlns:ignore="http://www.galasoft.ch/ignore"
@@ -71,6 +71,14 @@
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Kill</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Installations</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Patch notes</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region GameTab -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
 
     <!--#endregion-->
 
@@ -512,7 +520,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
