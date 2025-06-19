@@ -26,6 +26,7 @@ namespace BedrockLauncher.Localization.Language
                 "uk-UA",
                 "zh-CN",
                 "zh-TW"
+                "ja-JP"
             };
         }
     }
