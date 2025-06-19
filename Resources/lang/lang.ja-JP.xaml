@@ -13,7 +13,7 @@
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText">❤ 開発を支援 ❤</v::String>
+    <v:String x:Key="CommunityPage_SupportText">❤ 開発を支援 ❤</v:String>
 
     <!-- #endregion -->
 
@@ -466,8 +466,8 @@
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">ネコとパンダのアップデート [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">正式リリース [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock & Java (Technoblade)</v:String>
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock & Java</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock版 スタンダード</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock版 マスター</v:String>
