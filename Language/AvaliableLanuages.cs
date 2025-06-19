@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +25,7 @@ namespace BedrockLauncher.Localization.Language
                 "tr-TR",
                 "uk-UA",
                 "zh-CN",
-                "zh-TW"
+                "zh-TW", 
                 "ja-JP"
             };
         }
