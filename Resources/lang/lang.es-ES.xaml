@@ -66,6 +66,7 @@
     <v:String x:Key="GameTab_Title">Minecraft: Bedrock Edition</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Jugar</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Terminar proceso</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Instalaciones</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Notas del parche</v:String>
 

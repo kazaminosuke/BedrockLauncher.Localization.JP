@@ -66,6 +66,7 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: EDISI BEDROCK</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Main</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Matikan</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Pemasangan</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Nota Tampalan</v:String>
 

@@ -66,6 +66,7 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Oyna</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Sonlandır</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Kurulumlar</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Yama Notları</v:String>
 
