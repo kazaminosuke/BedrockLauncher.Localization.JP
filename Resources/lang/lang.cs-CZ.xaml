@@ -66,6 +66,7 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDICE</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Hrát</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Ukončit</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Instalace</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Informace k aktualizaci</v:String>
 
