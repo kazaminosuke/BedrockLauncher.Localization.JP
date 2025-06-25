@@ -66,6 +66,7 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">开始游戏</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">终止</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">创建者工具</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">配置</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">更新说明</v:String>
 
@@ -73,9 +74,9 @@
     
     <!--#region CreatorToolsPage -->
 
-    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
-    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
-    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Editor">基岩版</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">用规模化的方式创建惊人的世界</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">启动编辑器</v:String>
 
     <!--#endregion-->
 
@@ -179,7 +180,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">启动器设置</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">快捷按钮设置</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">保留 Appx 应用包</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">游戏运行时保持启动器开启</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">启动器的页面切换动画</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">开始游戏标签页的开始游戏按钮动画</v:String>
