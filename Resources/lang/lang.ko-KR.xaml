@@ -213,32 +213,32 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">선택한 계정</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">인사이더 설정</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">일반 설정</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Legacy Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Manage Accounts</v:String>
-    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">ACCOUNT SETTINGS</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">이전 설정</v:String>
+    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">계정 관리</v:String>
+    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">계정 설정</v:String>
 
     <!--#endregion-->
 
     <!--#region AboutPage -->
 
-    <v:String x:Key="AboutPage_Title">ABOUT MINECRAFT: BEDROCK EDITION LAUNCHER</v:String>
-    <v:String x:Key="AboutPage_DevelopedBy_Text">DEVELOPED BY</v:String>
-    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">FORKED FROM THE WORK OF</v:String>
-    <v:String x:Key="AboutPage_SpecialThanks_Text">SPECIAL THANKS TO</v:String>
+    <v:String x:Key="AboutPage_Title">마인크래프트: 베드락 에디션 런처 정보</v:String>
+    <v:String x:Key="AboutPage_DevelopedBy_Text">개발자:</v:String>
+    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">포크한 기존 작업:</v:String>
+    <v:String x:Key="AboutPage_SpecialThanks_Text">특별 감사:</v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">For creating the original Minecraft Windows 10 Version downloader (which this work derives from)</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_CurrentBuild">Current Build: </v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text">기존 Minecraft Windows 10 Version downloader 개발 (이 프로그램의 전신)</v:String>
+    <v:String x:Key="AboutPage_Mojang_Text">Minecraft 개발!!!</v:String>
+    <v:String x:Key="AboutPage_CurrentBuild">현재 빌드: </v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">경로 설정</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">저장소 경로</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">포터블 모드 활성화</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">적용 및 재시작</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* 이 설정을 적용하면 런처가 재시작합니다</v:String>
 
     <!--#endregion-->
 
@@ -248,58 +248,58 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
 
     <!--#region FirstLaunch -->
 
-    <v:String x:Key="FirstLaunch_WelcomeTitle">Welcome!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Welcome to Minecraft Bedrock Launcher!</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Create your first profile!</v:String>
-    <v:String x:Key="FirstLaunch_AlmostThereTitle">Almost there!</v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle">One thing...</v:String>
-    <v:String x:Key="FirstLaunch_OneThingSubtitle">Just check over these to make sure they're just how you like it.</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Choose an Insider Account</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* This will be used to verify and download betas. You must be opted in the Xbox Insider Hub for the selected account to download betas. You also may need to restart the launcher or uninstall Minecraft for downloading betas to work.</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeTitle">환영합니다!</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle">마인크래프트 베드락 런처를 이용하게 되신 것을 환영합니다!</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">첫 프로필을 만들어 보세요!</v:String>
+    <v:String x:Key="FirstLaunch_AlmostThereTitle">거의 다 되었습니다!</v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle">마지막으로...</v:String>
+    <v:String x:Key="FirstLaunch_OneThingSubtitle">이 항목들을 보고 마음에 드는지 확인해보세요.</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle">인사이더 계정 선택</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* 베타를 확인하고 다운로드하는 데 쓰입니다. 선택한 계정의 Xbox Insider 허브를 선택하여 베타를 다운로드해야 합니다. 또 베타를 다운로드하기 위해 런처를 재시작하거나 Minecraft를 제거해야 할 수도 있습니다.</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Before using, it is highly recommended that you press backup to create an installation of your existing save data as the launcher does replace the original directory with a symbolic link which allows us to redirect save data.
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">사용하기 전에 백업을 눌러 기존 저장 데이터를 설치하는 것이 좋습니다. 시작 프로그램이 원래 경로를 세이브 데이터의 재연결이 가능한 심볼 링크로 바꿉니다.
 
- (Don't worry, you will not lose your data by doing this, you will only lose data if you press play and haven't backed your stuff up)</v:String>
+ (걱정하지 마십시오. 이 과정 도중 데이터가 사리지지 않습니다. 백업을 하지 않은 채 플레이를 누르는 경우만 데이터가 사라지게 됩니다)</v:String>
 
-    <v:String x:Key="FirstLaunch_InstallType_Header">Save/Load Launcher Data From:</v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Fixed Folder (Recommended)</v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Portable/Root Folder</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Backup Existing Save Data</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(RECOMMENDED)</v:String>
-    <v:String x:Key="FirstLaunch_CloseButton">Close</v:String>
-    <v:String x:Key="FirstLaunch_BackButton">Back</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText">PROFILE</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton">Create</v:String>
-    <v:String x:Key="FirstLaunch_NextButton">Next</v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton">Download</v:String>
-    <v:String x:Key="FirstLaunch_FinishButton">Finish</v:String>
+    <v:String x:Key="FirstLaunch_InstallType_Header">런처 데이터 저장/불러오기 경로:</v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">폴더 고정 (권장 사항)</v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">포터블/루트 폴더</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">현재 세이브 데이터 백업</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(권장 사항)</v:String>
+    <v:String x:Key="FirstLaunch_CloseButton">닫기</v:String>
+    <v:String x:Key="FirstLaunch_BackButton">뒤로</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ 돌아가기</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText">프로필</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton">생성</v:String>
+    <v:String x:Key="FirstLaunch_NextButton">다음</v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton">다운로드</v:String>
+    <v:String x:Key="FirstLaunch_FinishButton">마침</v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">ERROR</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">Launcher crashed</v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage">An unexpected issue occurred and the launcher has crashed. We're sorry for the inconvenience.</v:String>
-    <v:String x:Key="ErrorScreen_CloseButton">Close</v:String>
-    <v:String x:Key="ErrorScreen_ViewCrash">View crash report</v:String>
+    <v:String x:Key="ErrorScreen_Title">오류</v:String>
+    <v:String x:Key="ErrorScreen_SubTitle">런처 충돌함</v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage">예기치 못한 문제가 발생하여 런처가 충돌했습니다. 불편을 드려 죄송합니다.</v:String>
+    <v:String x:Key="ErrorScreen_CloseButton">닫기</v:String>
+    <v:String x:Key="ErrorScreen_ViewCrash">충돌 보고서 보기</v:String>
 
     <!--#endregion-->
 
     <!--#region Errors -->
 
-    <v:String x:Key="Error_AuthenticationFailed_Title">Authentication failed</v:String>
-    <v:String x:Key="Error_AuthenticationFailed">Failed to authenticate. Please make sure your account is subscribed to the beta program.</v:String>
+    <v:String x:Key="Error_AuthenticationFailed_Title">인증 실패</v:String>
+    <v:String x:Key="Error_AuthenticationFailed">인증에 실패했습니다. 계정이 베타 프로그램에 가입되어 있는지 확인하세요.</v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title">App registration failed</v:String>
-    <v:String x:Key="Error_AppReregisterFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title">앱 등록 실패</v:String>
+    <v:String x:Key="Error_AppReregisterFailed">다시 시도하세요 :(</v:String>
 
-    <v:String x:Key="Error_AppDeregisteringFailed_Title">App de-registration failed</v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed_Title">앱 등록 해제 실패</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed">다시 시도하세요 :(</v:String>
 
-    <v:String x:Key="Error_AppLaunchFailed_Title">Launch failed</v:String>
-    <v:String x:Key="Error_AppLaunchFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppLaunchFailed_Title">시작 실패</v:String>
+    <v:String x:Key="Error_AppLaunchFailed">다시 시도하세요 :(</v:String>
 
     <v:String x:Key="Error_AppDownloadFailed_Title">다운로드 실패</v:String>
     <v:String x:Key="Error_AppDownloadFailed">다시 시도하세요 :(</v:String>
@@ -392,50 +392,50 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">계속하기 전 다른 모든 애플리케이션을 종료하는걸 추천드립니다.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">&quot;다음&quot;을 눌러 계속하거나, &quot;취소&quot;를 눌러 설치를 종료하세요.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">사용권 계약</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">다음의 사용권 계약을 읽어주세요. 당신은 이 조건에 동의해야 합니다.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">설치를 계속하기 전 동의해주세요.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">사용권을 동의합니다.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">사용권을 동의하지 않습니다.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
+    <v:String x:Key="Installer_InstallType_Title">설치 유형 선택</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">다운로드하고 싶은 런처의 버전을 선택하세요</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">베타 버</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">정식 버</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">설치 경로 선택</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">설치 프로그램이 마인크래프트 베드락 런처를 아래 폴더에 설치할 것입니다. 다른 폴더에 설치하려면,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">'탐색'을 누르고 다른 폴더를 선택하십시오.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">대상 폴더</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">탐</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">바탕화면에 아이콘 생성</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">시작 메뉴에 추</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">프로그램 등록</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">종료 시 프로그램 시작</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">아래 프로그램이 파일 중 일부를 사용하고 있습니다:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">설치 중</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">설치 프로그램이 마인크래프트 베드락 런처를 설치할 때까지 기다려주십시오.</v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">경로를 이동할 수 없습니다</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">파일을 이동할 수 없습니다</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">파일이 사용 중입니다</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">다시 시도하시겠습니까?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">오류가 발생했습니다.</v:String>
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">다운로드하는 중...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">마무리하는 중...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">초기화하는 중...</v:String>
 
 
     <!--#endregion-->
@@ -446,34 +446,34 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
-    <v:String x:Key="VersionEntries_LatestRelease">Latest Release</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">최신 프리뷰</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">최신 베타</v:String>
+    <v:String x:Key="VersionEntries_LatestRelease">최근 정식</v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;이름 없는 설치 설정&gt;</v:String>
 
     <!--#endregion-->
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">Latest Update</v:String>
-    <v:String x:Key="ThemeEntries_Original">Original</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate">최근 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_Original">원본</v:String>
+    <v:String x:Key="ThemeEntries_Custom">사용자 지정</v:String>
 
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
-    <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic">Update Aquatic</v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Technically Updated [Java]</v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">World of Color Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate">Exploration Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">Official Release [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">야생 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">동굴과 절벽 (파트 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">동굴과 절벽 (파트 2)</v:String>
+    <v:String x:Key="ThemeEntries_NetherUpdate">네더 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">윙윙 꿀벌 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate">마을과 약탈 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic">수생 업데이트</v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated">테크니컬 업데이트 [Java]</v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">색의 세계 업데이트 [Java]</v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate">탐험 업데이트 [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CombatUpdate">전투 업데이트 [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">고양이와 판다 [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease">정식 출시 [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">베드락 &amp; 자바 (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockStandard">베드락 에디션 스탠다드</v:String>
