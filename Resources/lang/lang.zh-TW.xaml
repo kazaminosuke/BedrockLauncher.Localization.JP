@@ -66,8 +66,17 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK 版</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">開始遊戲</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">強制停止</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">安裝檔</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">更新說明</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
 
     <!--#endregion-->
 
@@ -512,7 +521,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">版本</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">版本</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">架構</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">瀏覽</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">重設</v:String>

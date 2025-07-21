@@ -66,8 +66,17 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: VERSÃO BEDROCK</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Jogar</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Fechar</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Instalações</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Notas de atualização</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
 
     <!--#endregion-->
 
@@ -512,7 +521,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PROCURAR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">REPOR</v:String>

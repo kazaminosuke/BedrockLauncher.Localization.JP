@@ -66,8 +66,17 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Грати</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Завершити</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Інструменти створення</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Інсталяції</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Список змін</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Редактор Bedrock</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Створюйте дивовижні світи в масштабі</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Запустити редактор</v:String>
 
     <!--#endregion-->
 
@@ -171,7 +180,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">НАЛАШТУВАННЯ ЛАУНЧЕРА</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">НАЛАШТУВАННЯ ЯРЛИКА</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Залишити Appx-пакет</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Не закривати лаунчер під час запуску гри</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Анімувати переходи між сторінками в лаунчері</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Анімувати кнопку &quot;Грати&quot; в ігрових розділах лаунчера</v:String>
@@ -512,7 +521,7 @@
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">АРХІТЕКТУРИ</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ОГЛЯД</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СКИНУТИ</v:String>

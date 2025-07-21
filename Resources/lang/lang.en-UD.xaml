@@ -66,8 +66,17 @@
     <v:String x:Key="GameTab_Title">NOI⟘IᗡƎ ꞰƆOᴚᗡƎᗺ :⟘ℲⱯᴚƆƎNIW</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">ʎɐꞁԀ</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">ꞁꞁᴉꞰ</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">suoᴉʇɐꞁꞁɐʇsuI</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">sǝʇou ɥɔʇɐԀ</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">ɹoʇᴉpƎ ʞɔoɹpǝq</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">ǝlɐɔs ʇɐ splɹoʍ ƃuᴉuunʇs ǝʇɐǝɹƆ</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">ɹoʇᴉpƎ ɥɔunɐ˥</v:String>
 
     <!--#endregion-->
 
@@ -171,7 +180,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">S⅁NI⟘⟘ƎS ᴚƎHƆN∩ⱯꞀ</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">S⅁NI⟘⟘ƎS ⟘∩Ɔ⟘ᴚOHS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">ǝƃɐʞɔɐԀ xdd∀ dǝǝʞ</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ᵷuᴉuunɹ ǝɹɐ sǝɯɐᵷ ǝꞁᴉɥʍ uǝdo ɹǝɥɔunɐꞀ ǝɥʇ dǝǝꞰ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd uǝǝʍʇǝq suoᴉʇᴉsuɐɹʇ ǝʇɐɯᴉuⱯ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd ʎɐꞁԀ ǝɥʇ uo uoʇʇnq ʎɐꞁd ǝʇɐɯᴉuⱯ</v:String>
@@ -451,7 +460,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="ThemeEntries_Original">ꞁɐuᴉᵷᴉɹO</v:String>
     <v:String x:Key="ThemeEntries_Custom">ɯoʇsnƆ</v:String>
 
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">ǝʇɐpdՈ plᴉM ǝɥꞱ</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">(⥝ ʇɹɐԀ) sɟɟᴉꞁƆ ⅋ sǝʌɐƆ</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">(ᄅ ʇɹɐԀ) sɟɟᴉlƆ ⅋ sǝʌɐƆ</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">ǝʇɐpd∩ ɹǝɥʇǝN</v:String>
@@ -513,7 +522,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">SƎɹ∩┴ƆƎ┴IHƆɹ∀</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ƎSMOᴚᗺ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">⟘ƎSƎᴚ</v:String>

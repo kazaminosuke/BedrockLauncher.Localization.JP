@@ -66,8 +66,17 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Oyna</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Sonlandır</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Kurulumlar</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Yama Notları</v:String>
+
+    <!--#endregion-->
+    
+    <!--#region CreatorToolsPage -->
+
+    <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
 
     <!--#endregion-->
 
@@ -513,7 +522,7 @@ turned off, try turning the back on and search again</v:String>
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">SÜRÜMLER</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">SÜRÜMLER</v:String> 
     <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">GÖZAT</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">SIFIRLA</v:String>
