@@ -460,6 +460,11 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="ThemeEntries_Original">ꞁɐuᴉᵷᴉɹO</v:String>
     <v:String x:Key="ThemeEntries_Custom">ɯoʇsnƆ</v:String>
 
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
     <v:String x:Key="ThemeEntries_TheWildUpdate">ǝʇɐpdՈ plᴉM ǝɥꞱ</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">(⥝ ʇɹɐԀ) sɟɟᴉꞁƆ ⅋ sǝʌɐƆ</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">(ᄅ ʇɹɐԀ) sɟɟᴉlƆ ⅋ sǝʌɐƆ</v:String>
@@ -477,8 +482,11 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">(ǝpɐlqouɥɔǝ┴) ɐʌɐſ ⅋ ʞɔoɹpǝq</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">ɐʌɐſ ⅋ ʞɔoɹpǝq</v:String>
 
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">pɹɐpuɐʇS uoᴉʇᴉpƎ ʞɔoɹpǝᗺ</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">ɹǝʇsɐW uoᴉʇᴉpƎ ʞɔoɹpǝᗺ</v:String>
+    
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">ɐɹƎ ǝꞁosuoƆ ʎɔɐᵷǝꞀ ꞁɐuᴉᵷᴉɹO</v:String>
     <v:String x:Key="ThemeEntries_MidLegacyConsole">ɐɹƎ ǝꞁosuoƆ ʎɔɐᵷǝꞀ pᴉW</v:String>
     <v:String x:Key="ThemeEntries_LateLegacyConsole">ɐɹƎ ǝꞁosuoƆ ʎɔɐᵷǝꞀ ǝʇɐꞀ</v:String>

@@ -459,6 +459,11 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="ThemeEntries_Original">원본</v:String>
     <v:String x:Key="ThemeEntries_Custom">사용자 지정</v:String>
 
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
     <v:String x:Key="ThemeEntries_TheWildUpdate">야생 업데이트</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">동굴과 절벽 (파트 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">동굴과 절벽 (파트 2)</v:String>
@@ -476,8 +481,11 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">베드락 &amp; 자바 (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
 
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">베드락 에디션 스탠다드</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">베드락 에디션 마스터</v:String>
+    
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">레거시 콘솔 원시 시</v:String>
     <v:String x:Key="ThemeEntries_MidLegacyConsole">레거시 콘솔 중기 시</v:String>
     <v:String x:Key="ThemeEntries_LateLegacyConsole">레거시 콘솔 후기 시</v:String>
