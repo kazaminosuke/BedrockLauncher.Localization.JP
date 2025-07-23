@@ -460,6 +460,11 @@
     <v:String x:Key="ThemeEntries_Original">Оригинальное</v:String>
     <v:String x:Key="ThemeEntries_Custom">Пользовательский</v:String>
 
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
     <v:String x:Key="ThemeEntries_TheWildUpdate">Дикое обновление</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Обновление &quot;Пещеры и скалы&quot; (часть 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Пещеры и скалы (часть 2)</v:String>
@@ -477,8 +482,11 @@
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock и Java (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock и Java</v:String>
 
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Стандартное издание Bedrock</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Мастерское издание Bedrock</v:String>
+    
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Период ранних версий Legacy Console</v:String>
     <v:String x:Key="ThemeEntries_MidLegacyConsole">Период основных версий Legacy Console</v:String>
     <v:String x:Key="ThemeEntries_LateLegacyConsole">Период поздних версий Legacy Console</v:String>
