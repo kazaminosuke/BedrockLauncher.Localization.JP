@@ -459,6 +459,11 @@
     <v:String x:Key="ThemeEntries_Original">原版</v:String>
     <v:String x:Key="ThemeEntries_Custom">自訂</v:String>
 
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
     <v:String x:Key="ThemeEntries_TheWildUpdate">荒野更新</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴與山崖（第一部分）</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞穴與山崖 （第二部分）</v:String>
@@ -476,8 +481,11 @@
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock 版與 Java 版 (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock 版與 Java 版</v:String>
 
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock 標準版</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
+    
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">原始原主機版時代</v:String>
     <v:String x:Key="ThemeEntries_MidLegacyConsole">中期原主機版時代</v:String>
     <v:String x:Key="ThemeEntries_LateLegacyConsole">後期原主機版時代</v:String>
