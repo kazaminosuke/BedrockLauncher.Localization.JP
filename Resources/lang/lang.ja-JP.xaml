@@ -1,59 +1,59 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ignore="http://www.galasoft.ch/ignore" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">日本語 - 日本</v:String>
 
     <!--#region MainWindow -->
 
     <v:String x:Key="MainWindow_Title">Minecraft Bedrock Launcher</v:String>
-    <v:String x:Key="MainWindow_Disclaimer">NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
+    <v:String x:Key="MainWindow_Disclaimer">MOJANGとは無関係であり、承認もされていません</v:String>
 
     <!--#endregion-->
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
+    <v:String x:Key="CommunityPage_SupportText">❤ 開発を支援 ❤</v:String>
 
     <!-- #endregion -->
 
     <!--#region ToolbarButtons -->
 
-    <v:String x:Key="ToolbarButtons_NewsButton_Text">News</v:String>
+    <v:String x:Key="ToolbarButtons_NewsButton_Text">ニュース</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">Minecraft：</v:String>
-    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profile</v:String>
-    <v:String x:Key="ToolbarButtons_SettingsButton_Text">Settings</v:String>
+    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">プロフィール</v:String>
+    <v:String x:Key="ToolbarButtons_SettingsButton_Text">設定</v:String>
 
     <!--#endregion-->
 
     <!--#region UpdateButton-->
 
-    <v:String x:Key="UpdateButton_NewUpdate_Text">New Update!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">Click to download!</v:String>
+    <v:String x:Key="UpdateButton_NewUpdate_Text">新しいアップデート！</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">クリックしてダウンロード！</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="ProgressBar_Downloading">Downloading</v:String>
-    <v:String x:Key="ProgressBar_Installing">Installing</v:String>
-    <v:String x:Key="ProgressBar_Launching">Launching</v:String>
-    <v:String x:Key="ProgressBar_Extracting">Extracting</v:String>
-    <v:String x:Key="ProgressBar_Uninstalling">Uninstalling</v:String>
-    <v:String x:Key="ProgressBar_RegisteringPackage">Registering Package</v:String>
-    <v:String x:Key="ProgressBar_RemovingPackage">Unregistering Package</v:String>
-    <v:String x:Key="ProgressBar_BackingUp">Backing up Save Data</v:String>
+    <v:String x:Key="ProgressBar_Downloading">ダウンロード中</v:String>
+    <v:String x:Key="ProgressBar_Installing">インストール中</v:String>
+    <v:String x:Key="ProgressBar_Launching">起動中</v:String>
+    <v:String x:Key="ProgressBar_Extracting">展開中</v:String>
+    <v:String x:Key="ProgressBar_Uninstalling">アンインストール中</v:String>
+    <v:String x:Key="ProgressBar_RegisteringPackage">パッケージを登録中</v:String>
+    <v:String x:Key="ProgressBar_RemovingPackage">パッケージの登録を解除中</v:String>
+    <v:String x:Key="ProgressBar_BackingUp">セーブデータをバックアップ中</v:String>
 
     <!--#endregion-->
 
     <!--#region ProfileButton -->
 
-    <v:String x:Key="ProfileButton_ManageProfiles_Text">Manage Profiles</v:String>
-    <v:String x:Key="ProfileButton_ProfileSettings_Text">Profile Settings</v:String>
-    <v:String x:Key="ProfileButton_AddProfile_Text">Add Profile</v:String>
-    <v:String x:Key="ProfileButton_RemoveProfile_Text">Remove Profile</v:String>
-    <v:String x:Key="ProfileButton_ChooseAccount_Text">CHOOSE PROFILE</v:String>
+    <v:String x:Key="ProfileButton_ManageProfiles_Text">プロファイルの管理</v:String>
+    <v:String x:Key="ProfileButton_ProfileSettings_Text">プロファイル設定</v:String>
+    <v:String x:Key="ProfileButton_AddProfile_Text">プロファイルの追加</v:String>
+    <v:String x:Key="ProfileButton_RemoveProfile_Text">プロファイルの削除</v:String>
+    <v:String x:Key="ProfileButton_ChooseAccount_Text">プロファイルを選択</v:String>
 
     <!--#endregion-->
 
@@ -64,68 +64,68 @@
     <!--#region GameTab -->
 
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
-    <v:String x:Key="GameTab_PlayButton_Text">Play</v:String>
-    <v:String x:Key="GameTab_PlayButton_Kill_Text">Kill</v:String>
-    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
-    <v:String x:Key="GameTab_InstallationsButton_Text">Installations</v:String>
-    <v:String x:Key="GameTab_PatchNotesButton_Text">Patch notes</v:String>
+    <v:String x:Key="GameTab_PlayButton_Text">プレイ</v:String>
+    <v:String x:Key="GameTab_PlayButton_Kill_Text">強制終了</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">クリエイターツール</v:String>
+    <v:String x:Key="GameTab_InstallationsButton_Text">起動構成</v:String>
+    <v:String x:Key="GameTab_PatchNotesButton_Text">パッチノート</v:String>
 
     <!--#endregion-->
     
     <!--#region CreatorToolsPage -->
 
     <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
-    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
-    <v:String x:Key="CreatorToolsPage_PlayEditorButton">Launch Editor</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">大規模で素晴らしい世界を創造</v:String>
+    <v:String x:Key="CreatorToolsPage_PlayEditorButton">エディターを起動</v:String>
 
     <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
-    <v:String x:Key="InstallationsPage_AddButton">New installation</v:String>
-    <v:String x:Key="InstallationsPage_PlayButton">Play</v:String>
+    <v:String x:Key="InstallationsPage_AddButton">新規作成</v:String>
+    <v:String x:Key="InstallationsPage_PlayButton">プレイ</v:String>
 
-    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Latest Played</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_Name">Name</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">最終プレイ</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_Name">名前</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">なし</v:String>
 
-    <v:String x:Key="InstallationsPage_SearchBar_Content">Installation name</v:String>
-    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
+    <v:String x:Key="InstallationsPage_SearchBar_Content">起動構成名</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">バージョンテキスト</v:String>
 
     <!--#endregion-->
 
     <!--#region EditInstallationScreen -->
 
-    <v:String x:Key="EditInstallationScreen_Title">Create new installation</v:String>
-    <v:String x:Key="EditInstallationScreen_AltTitle">Edit installation</v:String>
+    <v:String x:Key="EditInstallationScreen_Title">新しい起動構成を作成</v:String>
+    <v:String x:Key="EditInstallationScreen_AltTitle">起動構成の編集</v:String>
 
-    <v:String x:Key="EditInstallationScreen_CreateButton">Create</v:String>
-    <v:String x:Key="EditInstallationScreen_AltCreateButton">Save</v:String>
+    <v:String x:Key="EditInstallationScreen_CreateButton">作成</v:String>
+    <v:String x:Key="EditInstallationScreen_AltCreateButton">保存</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestRelease">Latest release</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">最新のプレビュー</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">最新のベータ</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestRelease">最新のリリース</v:String>
 
-    <v:String x:Key="EditInstallationScreen_NameSubtitle">NAME</v:String>
-    <v:String x:Key="EditInstallationScreen_VersionSubtitle">VERSION</v:String>
-    <v:String x:Key="EditInstallationScreen_DirectorySubtitle">DIRECTORY</v:String>
+    <v:String x:Key="EditInstallationScreen_NameSubtitle">名前</v:String>
+    <v:String x:Key="EditInstallationScreen_VersionSubtitle">バージョン</v:String>
+    <v:String x:Key="EditInstallationScreen_DirectorySubtitle">ディレクトリ</v:String>
 
-    <v:String x:Key="EditInstallationScreen_NameHintText">&lt;unnamed installation&gt;</v:String>
-    <v:String x:Key="EditInstallationScreen_DirectoryHintText">&lt;default path&gt;</v:String>
+    <v:String x:Key="EditInstallationScreen_NameHintText"><無名の起動構成></v:String>
+    <v:String x:Key="EditInstallationScreen_DirectoryHintText"><デフォルトのパス></v:String>
 
     <!--#endregion-->
 
     <!--#region PatchNotesPage -->
 
-    <v:String x:Key="PatchNotesPage_MorePatchNotes">More patch notes</v:String>
-    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">More beta patch notes</v:String>
+    <v:String x:Key="PatchNotesPage_MorePatchNotes">その他のパッチノート</v:String>
+    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">その他のベータ版パッチノート</v:String>
 
     <!--#endregion-->
 
     <!--#region SkinsPage -->
 
-    <v:String x:Key="SkinsPage_AddButton">New...</v:String>
-    <v:String x:Key="SkinsPage_ImportButton">Import...</v:String>
+    <v:String x:Key="SkinsPage_AddButton">新規...</v:String>
+    <v:String x:Key="SkinsPage_ImportButton">インポート...</v:String>
 
     <!--#endregion-->
 
@@ -135,23 +135,23 @@
 
     <!--#region LauncherNewsPage -->
 
-    <v:String x:Key="LauncherNewsPage_Title_Text">Latest Build Changes</v:String>
-    <v:String x:Key="LauncherNewsPage_Build_Text">Build</v:String>
-    <v:String x:Key="LauncherNewsPage_Changes_Text">Changes:</v:String>
-    <v:String x:Key="LauncherNewsPage_CheckForUpdates">Check for Updates</v:String>
-    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
-    <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Current</v:String>
+    <v:String x:Key="LauncherNewsPage_Title_Text">最新ビルドの変更点</v:String>
+    <v:String x:Key="LauncherNewsPage_Build_Text">ビルド</v:String>
+    <v:String x:Key="LauncherNewsPage_Changes_Text">変更点：</v:String>
+    <v:String x:Key="LauncherNewsPage_CheckForUpdates">アップデートを確認</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">アップデートを取得</v:String>
+    <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">現在</v:String>
 
     <!--#endregion-->
 
     <!--#region NewsScreenPage -->
 
-    <v:String x:Key="NewsScreen_LauncherTabTitle">Launcher</v:String>
-    <v:String x:Key="NewsScreen_OfficialTabTitle">Official</v:String>
+    <v:String x:Key="NewsScreen_LauncherTabTitle">ランチャー</v:String>
+    <v:String x:Key="NewsScreen_OfficialTabTitle">公式</v:String>
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Minecraft Forums</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
 
-    <v:String x:Key="NewsScreen_SearchBar_Content">News title</v:String>
+    <v:String x:Key="NewsScreen_SearchBar_Content">ニュースのタイトル</v:String>
 
     <v:String x:Key="NewsScreen_JavaNDungeons_JavaCheckbox">Minecraft: Java Edition</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox">Minecraft Dungeons</v:String>
@@ -165,79 +165,79 @@
 
     <!--#region SettingsTab -->
 
-    <v:String x:Key="SettingsTab_Title">SETTINGS</v:String>
-    <v:String x:Key="SettingsTab_GeneralButton">General</v:String>
-    <v:String x:Key="SettingsTab_AccountsButton">Accounts</v:String>
-    <v:String x:Key="SettingsTab_AboutButton">About</v:String>
-    <v:String x:Key="SettingsTab_VersionsButton">Versions</v:String>
+    <v:String x:Key="SettingsTab_Title">設定</v:String>
+    <v:String x:Key="SettingsTab_GeneralButton">全般</v:String>
+    <v:String x:Key="SettingsTab_AccountsButton">アカウント</v:String>
+    <v:String x:Key="SettingsTab_AboutButton">情報</v:String>
+    <v:String x:Key="SettingsTab_VersionsButton">バージョン</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSettingsScreen -->
-    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">LANGUAGE</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">LAUNCHER THEME</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">言語</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">ランチャーのテーマ</v:String>
 
 
-    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LAUNCHER SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">SHORTCUT SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Keep the Launcher open while games are running</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animate transitions between pages in the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animate play button on the Play pages in the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">ランチャーの設定</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">ショートカット設定</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Appxパッケージを保持する</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ゲーム実行中もランチャーを開いたままにする</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ランチャー内のページ切り替え時にアニメーションを再生する</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">ランチャーのプレイページでプレイボタンをアニメーションさせる</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Microsoft Storeから直接新しいバージョンを追加で確認することを許可する</v:String>
     
 
-    <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">SUPPORT CREATOR</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION の設定</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">クリエイターを支援</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">LAUNCHER UPDATES</v:String>
+    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">ランチャーのアップデート</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Support creator</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">クリエイターを支援</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupButton">Backup Save Data</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">バックアップオプション</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupButton">セーブデータをバックアップ</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">セーブデータをバックアップ（プレビュー版）</v:String>
     <!--#endregion-->
     
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">ローカルファイルからインストール</v:String>
 
 
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
-    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">SELECTED ACCOUNT</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER SETTINGS</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Normal Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Legacy Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Manage Accounts</v:String>
-    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">ACCOUNT SETTINGS</v:String>
+    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">選択中のアカウント</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">Insider設定</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">通常設定</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">レガシー設定</v:String>
+    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">アカウントの管理</v:String>
+    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">アカウント設定</v:String>
 
     <!--#endregion-->
 
     <!--#region AboutPage -->
 
-    <v:String x:Key="AboutPage_Title">ABOUT MINECRAFT: BEDROCK EDITION LAUNCHER</v:String>
-    <v:String x:Key="AboutPage_DevelopedBy_Text">DEVELOPED BY</v:String>
-    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">FORKED FROM THE WORK OF</v:String>
-    <v:String x:Key="AboutPage_SpecialThanks_Text">SPECIAL THANKS TO</v:String>
+    <v:String x:Key="AboutPage_Title">MINECRAFT: BEDROCK EDITION LAUNCHERについて</v:String>
+    <v:String x:Key="AboutPage_DevelopedBy_Text">開発者</v:String>
+    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">フォーク元の製作者</v:String>
+    <v:String x:Key="AboutPage_SpecialThanks_Text">スペシャルサンクス</v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">For creating the original Minecraft Windows 10 Version downloader (which this work derives from)</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_CurrentBuild">Current Build: </v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text">オリジナルのMinecraft Windows 10版ダウンローダー（本作の派生元）を作成してくれたことに対して</v:String>
+    <v:String x:Key="AboutPage_Mojang_Text">Minecraftをありがとう！！！</v:String>
+    <v:String x:Key="AboutPage_CurrentBuild">現在のビルド：</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">パスのオプション</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">ストレージディレクトリ</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">ポータブルモードを有効にする</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">適用して再起動</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* これらの設定はランチャーを再起動します</v:String>
 
     <!--#endregion-->
 
@@ -247,130 +247,130 @@
 
     <!--#region FirstLaunch -->
 
-    <v:String x:Key="FirstLaunch_WelcomeTitle">Welcome!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Welcome to Minecraft Bedrock Launcher!</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Create your first profile!</v:String>
-    <v:String x:Key="FirstLaunch_AlmostThereTitle">Almost there!</v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle">One thing...</v:String>
-    <v:String x:Key="FirstLaunch_OneThingSubtitle">Just check over these to make sure they're just how you like it.</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Choose an Insider Account</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* This will be used to verify and download betas. You must be opted in the Xbox Insider Hub for the selected account to download betas. You also may need to restart the launcher or uninstall Minecraft for downloading betas to work.</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeTitle">ようこそ！</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Minecraft Bedrock Launcherへようこそ！</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">最初のプロファイルを作成しましょう！</v:String>
+    <v:String x:Key="FirstLaunch_AlmostThereTitle">あと少しです！</v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle">あと一つ...</v:String>
+    <v:String x:Key="FirstLaunch_OneThingSubtitle">これらが好みの設定になっているか確認してください。</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Insiderアカウントを選択</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* これはベータ版の検証とダウンロードに使用されます。ベータ版をダウンロードするには、選択したアカウントでXbox Insider Hubに参加している必要があります。また、ベータ版のダウンロードを機能させるために、ランチャーを再起動するか、Minecraftをアンインストールする必要がある場合があります。</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Before using, it is highly recommended that you press backup to create an installation of your existing save data as the launcher does replace the original directory with a symbolic link which allows us to redirect save data.
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">使用する前に、バックアップを押して既存のセーブデータのインストールを作成することを強くお勧めします。ランチャーは元のディレクトリをシンボリックリンクに置き換えてセーブデータをリダイレクトするためです。
 
- (Don't worry, you will not lose your data by doing this, you will only lose data if you press play and haven't backed your stuff up)</v:String>
+ (ご心配なく、この操作でデータが失われることはありません。バックアップせずにプレイボタンを押した場合にのみデータが失われます)</v:String>
 
-    <v:String x:Key="FirstLaunch_InstallType_Header">Save/Load Launcher Data From:</v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Fixed Folder (Recommended)</v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Portable/Root Folder</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Backup Existing Save Data</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(RECOMMENDED)</v:String>
-    <v:String x:Key="FirstLaunch_CloseButton">Close</v:String>
-    <v:String x:Key="FirstLaunch_BackButton">Back</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText">PROFILE</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton">Create</v:String>
-    <v:String x:Key="FirstLaunch_NextButton">Next</v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton">Download</v:String>
-    <v:String x:Key="FirstLaunch_FinishButton">Finish</v:String>
+    <v:String x:Key="FirstLaunch_InstallType_Header">ランチャーデータの保存/読み込み元：</v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">固定フォルダー（推奨）</v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">ポータブル/ルートフォルダー</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">既存のセーブデータをバックアップ</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">（推奨）</v:String>
+    <v:String x:Key="FirstLaunch_CloseButton">閉じる</v:String>
+    <v:String x:Key="FirstLaunch_BackButton">戻る</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ 戻る</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText">プロファイル</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton">作成</v:String>
+    <v:String x:Key="FirstLaunch_NextButton">次へ</v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton">ダウンロード</v:String>
+    <v:String x:Key="FirstLaunch_FinishButton">完了</v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">ERROR</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">Launcher crashed</v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage">An unexpected issue occurred and the launcher has crashed. We're sorry for the inconvenience.</v:String>
-    <v:String x:Key="ErrorScreen_CloseButton">Close</v:String>
-    <v:String x:Key="ErrorScreen_ViewCrash">View crash report</v:String>
+    <v:String x:Key="ErrorScreen_Title">エラー</v:String>
+    <v:String x:Key="ErrorScreen_SubTitle">ランチャーがクラッシュしました</v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage">予期せぬ問題が発生し、ランチャーがクラッシュしました。ご不便をおかけして申し訳ありません。</v:String>
+    <v:String x:Key="ErrorScreen_CloseButton">閉じる</v:String>
+    <v:String x:Key="ErrorScreen_ViewCrash">クラッシュレポートを表示</v:String>
 
     <!--#endregion-->
 
     <!--#region Errors -->
 
-    <v:String x:Key="Error_AuthenticationFailed_Title">Authentication failed</v:String>
-    <v:String x:Key="Error_AuthenticationFailed">Failed to authenticate. Please make sure your account is subscribed to the beta program.</v:String>
+    <v:String x:Key="Error_AuthenticationFailed_Title">認証に失敗しました</v:String>
+    <v:String x:Key="Error_AuthenticationFailed">認証に失敗しました。アカウントがベータプログラムに登録されていることを確認してください。</v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title">App registration failed</v:String>
-    <v:String x:Key="Error_AppReregisterFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title">アプリの登録に失敗しました</v:String>
+    <v:String x:Key="Error_AppReregisterFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_AppDeregisteringFailed_Title">App de-registration failed</v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed_Title">アプリの登録解除に失敗しました</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_AppLaunchFailed_Title">Launch failed</v:String>
-    <v:String x:Key="Error_AppLaunchFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppLaunchFailed_Title">起動に失敗しました</v:String>
+    <v:String x:Key="Error_AppLaunchFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_AppDownloadFailed_Title">Download failed</v:String>
-    <v:String x:Key="Error_AppDownloadFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppDownloadFailed_Title">ダウンロードに失敗しました</v:String>
+    <v:String x:Key="Error_AppDownloadFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Save redirection failed</v:String>
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">セーブデータのリダイレクトに失敗しました</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_AppUninstallFailed_Title">Uninstall failed</v:String>
-    <v:String x:Key="Error_AppUninstallFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppUninstallFailed_Title">アンインストールに失敗しました</v:String>
+    <v:String x:Key="Error_AppUninstallFailed">もう一度お試しください :(</v:String>
 
-    <v:String x:Key="Error_AppExtractionFailed_Title">Extraction failed</v:String>
-    <v:String x:Key="Error_AppExtractionFailed">Please try again :(</v:String>
+    <v:String x:Key="Error_AppExtractionFailed_Title">展開に失敗しました</v:String>
+    <v:String x:Key="Error_AppExtractionFailed">もう一度お試しください :(</v:String>
 
     <!--#endregion-->
 
     <!--#region NewProfile -->
 
-    <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText_Error">THIS NAME IS ALREADY TAKEN</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
-    <v:String x:Key="NewProfile_CreateProfileButton">Create</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_GoBackButton">❮ 戻る</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">プロファイル名</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">プロファイルディレクトリ</v:String>
+    <v:String x:Key="NewProfile_CreateProfileText_Error">この名前は既に使用されています</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">プロファイルの作成</v:String>
+    <v:String x:Key="NewProfile_CreateProfileButton">作成</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">保存</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">プロファイルの編集</v:String>
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Dialog_Item_Installation_Text">installation</v:String>
-    <v:String x:Key="Dialog_Item_Version_Text">version</v:String>
-    <v:String x:Key="Dialog_Item_Profile_Text">profile</v:String>
+    <v:String x:Key="Dialog_Item_Installation_Text">起動構成</v:String>
+    <v:String x:Key="Dialog_Item_Version_Text">バージョン</v:String>
+    <v:String x:Key="Dialog_Item_Profile_Text">プロファイル</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">ユーザーデータを削除</v:String>
 
-    <v:String x:Key="Dialog_DeleteItem_Title">Delete {0} permanently</v:String>
-    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Are you sure you want to delete &quot;{1}&quot;?
-This {0} will be lost forever! (A long time!)</v:String>
+    <v:String x:Key="Dialog_DeleteItem_Title">{0}を完全に削除します</v:String>
+    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">「{1}」を削除してもよろしいですか？
+この{0}は永遠に失われます！（本当に長い間！）</v:String>
 
-    <v:String x:Key="Dialog_KillGame_Title">Kill Game</v:String>
-    <v:String x:Key="Dialog_KillGame_Text">This is Dangerous, and is only recommended if you get stuck. Do you still want to close the game?</v:String>
+    <v:String x:Key="Dialog_KillGame_Title">ゲームの強制終了</v:String>
+    <v:String x:Key="Dialog_KillGame_Text">これは危険な操作であり、ゲームが動かなくなった場合にのみ推奨されます。それでもゲームを終了しますか？</v:String>
 
-    <v:String x:Key="Dialog_CloseGame_Title">Game is Still Running</v:String>
-    <v:String x:Key="Dialog_CloseGame_Text">Would you like to force close it? (without saving changes, this is only recommended if you get stuck, please close the game normally)</v:String>
+    <v:String x:Key="Dialog_CloseGame_Title">ゲームはまだ実行中です</v:String>
+    <v:String x:Key="Dialog_CloseGame_Text">強制終了しますか？（変更は保存されません。これはゲームが動かなくなった場合にのみ推奨されます。通常はゲームを正常に終了してください）</v:String>
 
-    <v:String x:Key="DialogBtn_YesToAll_Text">Yes To All</v:String>
-    <v:String x:Key="DialogBtn_NoToAll_Text">No To All</v:String>
-    <v:String x:Key="DialogBtn_Yes_Text">Yes</v:String>
-    <v:String x:Key="DialogBtn_No_Text">No</v:String>
+    <v:String x:Key="DialogBtn_YesToAll_Text">すべてはい</v:String>
+    <v:String x:Key="DialogBtn_NoToAll_Text">すべていいえ</v:String>
+    <v:String x:Key="DialogBtn_Yes_Text">はい</v:String>
+    <v:String x:Key="DialogBtn_No_Text">いいえ</v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">No matching results</v:String>
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">We couldn't find news any content matching your search. If you have category filters 
-turned off, try turning the back on and search again</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">一致する結果がありません</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">検索に一致するニュースコンテンツが見つかりませんでした。カテゴリフィルターを 
+オフにしている場合は、オンに戻して再度検索してみてください</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Loading...</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Please wait!</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Title">読み込み中...</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">お待ちください！</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title">Error</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title">エラー</v:String>
     <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
 
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">No result</v:String>
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Found no items matching your search</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">結果がありません</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">検索に一致する項目は見つかりませんでした</v:String>
 
     <!--#endregion-->
 
     <!--#region Internal -->
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">The file {0} already exists in the destination.\nDo you want to replace it? The old file will be lost otherwise.</v:String>
-    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">The file {0} is not a directory. Do you want to remove it? The data from the old directory will be lost otherwise.</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">ファイル {0} は既に保存先に存在します。\n置き換えますか？古いファイルは失われます。</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">ファイル {0} はディレクトリではありません。削除しますか？古いディレクトリのデータは失われます。</v:String>
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_Title">Converting Existing Save Data to Installation</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_Title">既存のセーブデータを起動構成に変換中</v:String>
 
     <!--#endregion-->
 
@@ -381,62 +381,62 @@ turned off, try turning the back on and search again</v:String>
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher セットアップウィザード</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">戻る</v:String>
+    <v:String x:Key="Installer_Next_Text">次へ</v:String>
+    <v:String x:Key="Installer_Cancel_Text">キャンセル</v:String>
+    <v:String x:Key="Installer_Finish_Text">完了</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Minecraft Bedrock Launcher セットアップウィザードへようこそ</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">これにより、お使いのコンピューターにMinecraft Bedrock Launcherがインストールされます。</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">続行する前に、他のすべてのアプリケーションを閉じることをお勧めします。</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">「次へ」をクリックして続行するか、「キャンセル」をクリックしてセットアップを終了します。</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">ライセンス契約</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">以下のライセンス契約をお読みください。インストールを続行するには、この契約の</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">条項に同意する必要があります。</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">ライセンスに同意します。</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">ライセンスに同意しません。</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
+    <v:String x:Key="Installer_InstallType_Title">インストールの種類を選択</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">ダウンロードしたいランチャーのバージョンを選択してください</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">ベータ版</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">リリース版</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">インストール場所の選択</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">セットアップはMinecraft Bedrock Launcherを次のフォルダーにインストールします。別のフォルダーにインストールするには、</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">「参照」をクリックして別のフォルダーを選択してください。</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">インストール先フォルダー</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">参照</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">デスクトップアイコンを作成する</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">スタートメニューに追加する</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">プログラムを登録する</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">終了時にプログラムを起動する</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">一部のファイルは現在、次のプログラムによって使用されています：</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">インストール中</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">セットアップがコンピューターにMinecraft Bedrock Launcherをインストールするまでお待ちください。</v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">ディレクトリを移動できません</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">ファイルを移動できません</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">ファイルが使用中です</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">再試行しますか？</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">エラーが発生しました。</v:String>
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">ダウンロード中...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">最終処理中...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">初期化中...</v:String>
 
 
     <!--#endregion-->
@@ -447,50 +447,50 @@ turned off, try turning the back on and search again</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
-    <v:String x:Key="VersionEntries_LatestRelease">Latest Release</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">最新のプレビュー</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">最新のベータ</v:String>
+    <v:String x:Key="VersionEntries_LatestRelease">最新のリリース</v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation"><無名の起動構成></v:String>
 
     <!--#endregion-->
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">Latest Update</v:String>
-    <v:String x:Key="ThemeEntries_Original">Original</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate">最新のアップデート</v:String>
+    <v:String x:Key="ThemeEntries_Original">オリジナル</v:String>
+    <v:String x:Key="ThemeEntries_Custom">カスタム</v:String>
 
-    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
-    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
-    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
-    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
-    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
-    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
-    <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic">Update Aquatic</v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Technically Updated [Java]</v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">World of Color Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate">Exploration Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">Official Release [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">空を追いかけて</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">生命の春</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">目覚めの庭</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">トリッキートライアル</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">旅路と物語</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">ワイルド アップデート</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖（第一弾）</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞窟と崖（第二弾）</v:String>
+    <v:String x:Key="ThemeEntries_NetherUpdate">ネザー アップデート</v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">ミツバチのアップデート</v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate">村と略奪者</v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic">アップデート アクアティック</v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated">テクニカルアップデート [Java]</v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">色彩の世界アップデート [Java]</v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate">探検アップデート [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CombatUpdate">戦闘アップデート [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">ネコとパンダ [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease">正式リリース [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock & Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock & Java</v:String>
 
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java & Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java & Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">Mid Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">Late Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_IndieDays">Indie Days</v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">初期レガシーコンソール時代</v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole">中期レガシーコンソール時代</v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole">後期レガシーコンソール時代</v:String>
+    <v:String x:Key="ThemeEntries_IndieDays">インディー時代</v:String>
     <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
 
 
@@ -498,45 +498,45 @@ turned off, try turning the back on and search again</v:String>
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Select">Select</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Previews">Previews</v:String>
-    <v:String x:Key="GeneralText_Imported">Imported</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Delete">削除</v:String>
+    <v:String x:Key="GeneralText_Edit">編集</v:String>
+    <v:String x:Key="GeneralText_Duplicate">複製</v:String>
+    <v:String x:Key="GeneralText_Remove">削除</v:String>
+    <v:String x:Key="GeneralText_Cancel">キャンセル</v:String>
+    <v:String x:Key="GeneralText_Select">選択</v:String>
+    <v:String x:Key="GeneralText_Update">更新</v:String>
+    <v:String x:Key="GeneralText_Install">インストール</v:String>
+    <v:String x:Key="GeneralText_Add">追加</v:String>
+    <v:String x:Key="GeneralText_Save">保存</v:String>
+    <v:String x:Key="GeneralText_Refresh">更新</v:String>
+    <v:String x:Key="GeneralText_Backup">バックアップ</v:String>
+    <v:String x:Key="GeneralText_Versions">バージョン</v:String>
+    <v:String x:Key="GeneralText_Browse">参照</v:String>
+    <v:String x:Key="GeneralText_Reset">リセット</v:String>
+    <v:String x:Key="GeneralText_Yes">はい</v:String>
+    <v:String x:Key="GeneralText_No">いいえ</v:String>
+    <v:String x:Key="GeneralText_Releases">リリース</v:String>
+    <v:String x:Key="GeneralText_Betas">ベータ</v:String>
+    <v:String x:Key="GeneralText_Previews">プレビュー</v:String>
+    <v:String x:Key="GeneralText_Imported">インポート済み</v:String>
+    <v:String x:Key="GeneralText_Export">エクスポート</v:String>
+    <v:String x:Key="GeneralText_Repair">修復</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">ウェブサイト</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String> 
-    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
-    <v:String x:Key="GeneralSubtitles_SortBy">SORT BY</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">バージョン</v:String> 
+    <v:String x:Key="GeneralSubtitles_Architectures">アーキテクチャ</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">参照</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">リセット</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">カテゴリ</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">検索</v:String>
+    <v:String x:Key="GeneralSubtitles_SortBy">並べ替え</v:String>
 
     <!--#endregion-->
 
