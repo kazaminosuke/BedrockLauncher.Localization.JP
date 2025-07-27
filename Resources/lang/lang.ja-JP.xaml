@@ -66,7 +66,7 @@
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">プレイ</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">強制終了</v:String>
-    <v:String x:Key="GameTab_CreatorToolsButton_Text">クリエイターツール</v:String>
+    <v:String x:Key="GameTab_CreatorToolsButton_Text">Creator Tools</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">起動構成</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">パッチノート</v:String>
 
@@ -75,7 +75,7 @@
     <!--#region CreatorToolsPage -->
 
     <v:String x:Key="CreatorToolsPage_Editor">Bedrock Editor</v:String>
-    <v:String x:Key="CreatorToolsPage_Slogan">大規模で素晴らしい世界を創造</v:String>
+    <v:String x:Key="CreatorToolsPage_Slogan">Create stunning worlds at scale</v:String>
     <v:String x:Key="CreatorToolsPage_PlayEditorButton">エディターを起動</v:String>
 
     <!--#endregion-->
@@ -110,8 +110,8 @@
     <v:String x:Key="EditInstallationScreen_VersionSubtitle">バージョン</v:String>
     <v:String x:Key="EditInstallationScreen_DirectorySubtitle">ディレクトリ</v:String>
 
-    <v:String x:Key="EditInstallationScreen_NameHintText"><無名の起動構成></v:String>
-    <v:String x:Key="EditInstallationScreen_DirectoryHintText"><デフォルトのパス></v:String>
+    <v:String x:Key="EditInstallationScreen_NameHintText">&lt;無名の起動構成&gt;</v:String>
+    <v:String x:Key="EditInstallationScreen_DirectoryHintText">&lt;デフォルトのパス&gt;</v:String>
 
     <!--#endregion-->
 
@@ -168,7 +168,7 @@
     <v:String x:Key="SettingsTab_Title">設定</v:String>
     <v:String x:Key="SettingsTab_GeneralButton">全般</v:String>
     <v:String x:Key="SettingsTab_AccountsButton">アカウント</v:String>
-    <v:String x:Key="SettingsTab_AboutButton">情報</v:String>
+    <v:String x:Key="SettingsTab_AboutButton">詳細</v:String>
     <v:String x:Key="SettingsTab_VersionsButton">バージョン</v:String>
 
     <!--#endregion-->
@@ -450,7 +450,7 @@
     <v:String x:Key="VersionEntries_LatestPreview">最新のプレビュー</v:String>
     <v:String x:Key="VersionEntries_LatestBeta">最新のベータ</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">最新のリリース</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation"><無名の起動構成></v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;無名の起動構成&gt;</v:String>
 
     <!--#endregion-->
 
@@ -479,11 +479,11 @@
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">ネコとパンダ [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">正式リリース [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock & Java (Technoblade)</v:String>
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock & Java</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
 
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java & Bedrock Edition Standard</v:String>
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java & Bedrock Edition Deluxe</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     
