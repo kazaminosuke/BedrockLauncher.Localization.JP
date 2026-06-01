@@ -459,14 +459,14 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="ThemeEntries_Original">원본</v:String>
     <v:String x:Key="ThemeEntries_Custom">사용자 지정</v:String>
 
-    <v:String x:Key="ThemeEntries_TinyTakeover">Tiny Takeover</v:String>
-    <v:String x:Key="ThemeEntries_MountsOfMayhem">Mounts of Mayhem</v:String>
-    <v:String x:Key="ThemeEntries_TheCopperAge">The Copper Age</v:String>
-    <v:String x:Key="ThemeEntries_ChaseTheSkies">Chase the Skies</v:String>
-    <v:String x:Key="ThemeEntries_SpringToLife">Spring to Life</v:String>
-    <v:String x:Key="ThemeEntries_TheGardenAwakens">The Garden Awakens</v:String>
-    <v:String x:Key="ThemeEntries_TrickyTrials">Tricky Trials</v:String>
-    <v:String x:Key="ThemeEntries_TrailsAndTales">Trails &amp; Tales</v:String>
+    <v:String x:Key="ThemeEntries_TinyTakeover">꼬마 몹 대소동</v:String>
+    <v:String x:Key="ThemeEntries_MountsOfMayhem">광란의 탈것</v:String>
+    <v:String x:Key="ThemeEntries_TheCopperAge">구리 시대</v:String>
+    <v:String x:Key="ThemeEntries_ChaseTheSkies">하늘을 쫓아서</v:String>
+    <v:String x:Key="ThemeEntries_SpringToLife">활기찬 봄</v:String>
+    <v:String x:Key="ThemeEntries_TheGardenAwakens">눈을 뜬 정원</v:String>
+    <v:String x:Key="ThemeEntries_TrickyTrials">까다로운 시련</v:String>
+    <v:String x:Key="ThemeEntries_TrailsAndTales">자취와 이야기</v:String>
     <v:String x:Key="ThemeEntries_TheWildUpdate">야생 업데이트</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">동굴과 절벽 (파트 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">동굴과 절벽 (파트 2)</v:String>
@@ -482,10 +482,10 @@ NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">정식 출시 [Bedrock]</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">베드락 &amp; 자바 (Technoblade)</v:String>
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">베드락 &amp; 자바</v:String>
 
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">Java &amp; Bedrock Edition Standard</v:String>
-    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">Java &amp; Bedrock Edition Deluxe</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionStandard">자바 &amp; 베드락 에디션 스탠다드</v:String>
+    <v:String x:Key="ThemeEntries_JavaAndBedrockEditionDeluxe">자바 &amp; 베드락 에디션 디럭스</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">베드락 에디션 스탠다드</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">베드락 에디션 마스터</v:String>
     
