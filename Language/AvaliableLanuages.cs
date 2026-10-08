@@ -17,6 +17,7 @@ namespace BedrockLauncher.Localization.Language
                 "es-ES",
                 "fr-FR",
                 "fi-FI",
+                "ja-JP",
                 "ms-MY",
                 "pl-PL",
                 "pt-BR",
