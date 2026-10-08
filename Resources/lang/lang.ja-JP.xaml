@@ -67,7 +67,7 @@
     <v:String x:Key="GameTab_PlayButton_Text">プレイ</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">強制終了</v:String>
     <v:String x:Key="GameTab_CreatorToolsButton_Text">クリエイターツール</v:String>
-    <v:String x:Key="GameTab_InstallationsButton_Text">インストール</v:String>
+    <v:String x:Key="GameTab_InstallationsButton_Text">インストール一覧</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">パッチノート</v:String>
 
     <!--#endregion-->
@@ -507,14 +507,14 @@
     <v:String x:Key="GeneralText_Delete">削除</v:String>
     <v:String x:Key="GeneralText_Edit">編集</v:String>
     <v:String x:Key="GeneralText_Duplicate">複製</v:String>
-    <v:String x:Key="GeneralText_Remove">除去</v:String>
+    <v:String x:Key="GeneralText_Remove">取り除く</v:String>
     <v:String x:Key="GeneralText_Cancel">キャンセル</v:String>
     <v:String x:Key="GeneralText_Select">選択</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
     <v:String x:Key="GeneralText_Install">インストール</v:String>
     <v:String x:Key="GeneralText_Add">追加</v:String>
     <v:String x:Key="GeneralText_Save">保存</v:String>
-    <v:String x:Key="GeneralText_Refresh">更新</v:String>
+    <v:String x:Key="GeneralText_Refresh">再読み込み</v:String>
     <v:String x:Key="GeneralText_Backup">バックアップ</v:String>
     <v:String x:Key="GeneralText_Versions">バージョン</v:String>
     <v:String x:Key="GeneralText_Browse">参照</v:String>
